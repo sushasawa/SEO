@@ -1,0 +1,2 @@
+# SEO
+Sample SEO Page
