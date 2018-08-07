@@ -19,4 +19,6 @@ This keywords will be searched when someone types in the google search box.
 
 Also can be added extra meta tags as per your need as added 'HKDrates'.
 
+Make use of HTML Heading and P tags to display your contents.
+
 
